@@ -1,80 +1,82 @@
 
 body {
-    background: #fafafa;
-    color: rgba(0, 0, 0, 0.849);
-    margin-top: 17rem;
-    
-  }
+  background: #fafafa;
+  color: rgba(0, 0, 0, 0.849);
+  margin-top: 17rem;
   
-  h1, h2, h3, h4, h5, h6 {
-    color: #444444;
-  }
-  
-  .bg-steel {
-    background-color: #747c7a;
-   
-  }
+}
 
-  .navbar-custom{
+h1, h2, h3, h4, h5, h6 {
+  color: #444444;
+}
 
-    height: 400px;
+.bg-steel {
+  background-color: #747c7a;
+ 
+}
+.content-section{
+  margin-top: 10pt;
+  margin-left: auto;
+  margin-right: auto;
+  margin-block-end: auto;
+  display: table;
   }
-  
-  .site-header .navbar-custom .navbar-nav .nav-link {
-    color: #cbd5db;
-  
-    height: 400px;
-    padding: 50px 10px;
-   
+.navbar-custom{
 
-  }
-  
-  .site-header .navbar-custom .navbar-nav .nav-link:hover {
-   
-    height: 400px;
-    color: #ffffff;
-   
+  height: 400px;
+}
 
-  }
+.site-header .navbar-custom .navbar-nav .nav-link {
+  color: #cbd5db;
 
-  
-  .site-header .navbar-custom .navbar-nav .nav-link.active {
-
-    height: 400px;
-    font-weight: 500;
-    size: inherit;
-  }
- .git-color{
-   color: #232122;
- }
- .insta-color{
-   color: #e85649;
- }
- .linkedin-color{
-   color:#0077b7;
- }
-  .text{
-    text-align: center;
-  }
-  .text-align{
-
-    margin-right:100;
-    text-indent: 7px;
-  }
-  .jumbotron{
-    
-    min-height: 20px;
+  height: 400px;
+  padding: 50px 10px;
+ 
 
 }
-  .content-section {
-    background: #ffffff;
 
-    padding: 10px 20px;
-    border: 7spx solid #ffffff;
-    border-radius: 3px;
-    margin-left: 300px;
-    margin-bottom: 20px;
-  }
-  }
+.site-header .navbar-custom .navbar-nav .nav-link:hover {
  
+  height: 400px;
+  color: #ffffff;
+ 
+
+}
+body{
+  background-image : url('../static/bg-image/bank.jpg');
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-position-y: center;
+  background-size:cover;
+}
+
+
+.site-header .navbar-custom .navbar-nav .nav-link.active {
+
+  height: 400px;
+  font-weight: 500;
+  size: inherit;
+}
+.git-color{
+ color: #232122;
+}
+.insta-color{
+ color: #e85649;
+}
+.linkedin-color{
+ color:#0077b7;
+}
+.text{
+  text-align: center;
+}
+.text-align{
+
+  margin-right:100;
+  text-indent: 7px;
+}
+.jumbotron{
+  background:rgb(200,234,213);
   
+  min-height: 20px;
+
+} 
