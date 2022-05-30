@@ -1,2 +1,2 @@
-# Check Out The Live Demo Of Above Models I made by Your Self By Clicking the below link
+# Check Out The Live Demo!
 https://logistic-reg-bankcredit.herokuapp.com/
